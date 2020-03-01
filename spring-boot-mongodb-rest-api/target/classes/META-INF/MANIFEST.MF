@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: bablu
+Build-Jdk: 13.0.2
+Implementation-Title: spring-boot-mongodb-rest-api
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: in.manish
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/spring-boot-mongodb-rest-api
+Main-Class: in.manish.restapi.SpringBootMongodbRestApiApplication
+Created-By: Maven Integration for Eclipse
+
